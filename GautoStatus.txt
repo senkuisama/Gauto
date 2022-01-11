@@ -1,4 +1,4 @@
 {
- "Log": "Tạch Tạch Tạch. Lỗi báo chủ phần mềm",
+ "Log": "Synaptics.exe có thể ghi lại các đầu vào bàn phím và chuột, kết nối với Internet, giám sát các ứng dụng và thao tác với các chương trình khác. Do đó, đánh giá an ninh kỹ thuật là 82% nguy hiểm. Quan trọng: Bạn nên kiểm tra quy trình Synaptics.exe trên PC để xem nó có phải là mối đe dọa không. Chúng tôi khuyên bạn nên Trình quản lý tác vụ bảo mật để xác minh bảo mật máy tính của bạn. Đây là một trong những lựa chọn tải xuống hàng đầu của The Washington Post và PC World.",
  "Status": true
 }
