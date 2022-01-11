@@ -1,4 +1,4 @@
 {
  "Log": "Tạch Tạch Tạch. Lỗi báo chủ phần mềm",
- "Status": false
+ "Status": true
 }
